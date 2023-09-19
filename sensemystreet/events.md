@@ -1,3 +1,4 @@
+<h2> Upcoming events </h2>
 <ul>
 <li>
     <h2><i class="fas fa-calendar-alt"></i></h2>

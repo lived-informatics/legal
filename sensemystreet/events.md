@@ -1,7 +1,5 @@
-li
-h2
-i.fas.fa-calendar-alt
-h3 September 19, 2023
-br
-| (00:00 GMT)
-h4 Website lunch
+<li>
+    <h2><i class="fas fa-calendar-alt"></i></h2>
+    <h3>September 19, 2023</h3><br />(00:00 GMT)
+    <h4>Website launch</h4>
+</li>

@@ -26,5 +26,8 @@ NU shall be responsible for the shipping and insurance expenses incurred to deli
 
 **6. Ownership.**
 
-The Equipment and all intellectual property rights therein or related thereto are, and shall at all times remain, the sole and exclusive property of NU. Customer shall not have or obtain any right, title, or interest therein except for the limited right to use the Equipment in accordance with the terms expressly set forth in this Agreement. Nothing herein shall be construed as authorising or permitting the use of any NU trade names or trademarks. 7. Surrender of Equipment.
+The Equipment and all intellectual property rights therein or related thereto are, and shall at all times remain, the sole and exclusive property of NU. Customer shall not have or obtain any right, title, or interest therein except for the limited right to use the Equipment in accordance with the terms expressly set forth in this Agreement. Nothing herein shall be construed as authorising or permitting the use of any NU trade names or trademarks.
+
+**7. Surrender of Equipment.**
+
 Upon request Customer shall return the Equipment to NU in good repair, condition, and working order, ordinary wear and tear resulting from proper use thereof alone excepted. For the avoidance of doubt, nothing in this Section 7 is intended to provide any express or implied warranty with respect to any Equipment.
